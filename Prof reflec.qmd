@@ -1,0 +1,12 @@
+---
+title: "Reflection from Supervisor"
+format: html
+date: today
+editor: visual
+---
+
+## Task 
+
+- Write methods and results as detailed as possible
+- Present tables and figures 
+- Projected to be published on Research Policy
